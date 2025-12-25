@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "living inside the shell",
+  "base_artist": "steve conte／shanti snyder[reading]",
+  "createdAt": "2025-12-25T07:25:14.812919Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Living Inside The Shell",
+      "artist": "Steve Conte",
+      "has_synced": true,
+      "path": "select/01_Living_Inside_The_Shell_Steve_Conte.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Living Inside The Shell",
+      "artist": "Steve conte",
+      "has_synced": true,
+      "path": "select/02_Living_Inside_The_Shell_Steve_conte.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "living inside the shell",
+      "artist": "steve conte",
+      "has_synced": true,
+      "path": "select/03_living_inside_the_shell_steve_conte.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Living Inside The Shell",
+      "artist": "Yoko Kanno (Steve Conte)",
+      "has_synced": true,
+      "path": "select/04_Living_Inside_The_Shell_Yoko_Kanno_(Steve_Conte).lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "living inside the shell",
+      "artist": "steve conte/shanti snyder",
+      "has_synced": true,
+      "path": "select/05_living_inside_the_shell_steve_conte_shanti_snyder.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "living inside the shell",
+      "artist": "Steve Conte feat. Shanti Snyder",
+      "has_synced": true,
+      "path": "select/06_living_inside_the_shell_Steve_Conte_feat._Shanti_Snyder.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "living inside the shell (feat. Shanti Snyder)",
+      "artist": "Steve Conte",
+      "has_synced": false,
+      "path": "select/07_living_inside_the_shell_(feat._Shanti_Snyder)_Steve_Conte.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "living inside the shell",
+      "artist": "steve conte  shanti snyder",
+      "has_synced": true,
+      "path": "select/08_living_inside_the_shell_steve_conte_shanti_snyder.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Living inside the shell",
+      "artist": "Steve Conte, Shanti Snyder",
+      "has_synced": true,
+      "path": "select/09_Living_inside_the_shell_Steve_Conte,_Shanti_Snyder.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "living inside the shell",
+      "artist": "Steve Conte feat. Shanti Snyder",
+      "has_synced": true,
+      "path": "select/10_living_inside_the_shell_Steve_Conte_feat._Shanti_Snyder.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Living Inside The Shell",
+      "artist": "GitS 2 - Steve Conte & Shanti Snyder",
+      "has_synced": true,
+      "path": "select/11_Living_Inside_The_Shell_GitS_2_-_Steve_Conte_&_Shanti_Snyder.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Living Inside The Shell",
+      "artist": "Yoko Kanno, Steve Conte And Shanti Snyder",
+      "has_synced": true,
+      "path": "select/12_Living_Inside_The_Shell_Yoko_Kanno,_Steve_Conte_And_Shanti_Snyder.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Living Inside the Shell",
+      "artist": "Steve Conte & Shanti Snyder",
+      "has_synced": false,
+      "path": "select/13_Living_Inside_the_Shell_Steve_Conte_&_Shanti_Snyder.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "living inside the shell",
+      "artist": "steve conte,shanti snyder",
+      "has_synced": false,
+      "path": "select/pl_01_living_inside_the_shell_steve_conte,shanti_snyder.txt"
+    }
+  ]
+}
